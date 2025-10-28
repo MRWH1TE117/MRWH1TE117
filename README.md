@@ -35,7 +35,7 @@
 - Angular: CSV export, access filters, tabular components.
 - Admin: snapshots/backups, BSOD/DMP diagnosis, cleaning environments.
 
-### 🤝 Contact /cooperation
+### 🤝 Contact / cooperation
 
 I prefer Issues / Discussions on repositories. I will gladly accept PRs and bug reports with logs.
 
