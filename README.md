@@ -12,42 +12,31 @@
   <img alt="WoW" src="https://img.shields.io/badge/WoW-3.3.5a-FFCC00?style=flat-square">
 </p>
 
-<hr/>
+---
 
-<h3 align="center">🔧 Tech stack</h3>
+### 🔧 Tech stack
 
-<div align="center">
-
-|            Frontend             |     Backend/Scripts     |                   Infra/IT                   |
-| :-----------------------------: | :---------------------: | :------------------------------------------: |
+| Frontend                        | Backend/Scripts         | Infra/IT                                     |
+| ------------------------------- | ----------------------- | -------------------------------------------- |
 | Angular · TypeScript · HTML/CSS | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
 
-</div>
+### 🚀 Newest projects
 
-<h3 align="center">🚀 Newest projects</h3>
+- **BigAurasLite (WotLK)**
+  👉 [BigAurasLite-WotLK](https://github.com/MRWH1TE117/BigAurasLite-WotLK)
+- **Carbonite Mercenary Fix (WotLK)**
+  👉 [Carbonite-Mercenary-Fix-WotLK](https://github.com/MRWH1TE117/CarboniteMercFix-WotLK)
+- **UnitSideNumbers (WotLK)**
+  👉 [UnitSideNumbers-WotLK](https://github.com/MRWH1TE117/UnitSideNumbers-WotLK)
 
-<div align="center">
-  <p><b>BigAurasLite (WotLK)</b><br/>
-  👉 <a href="https://github.com/MRWH1TE117/BigAurasLite-WotLK">BigAurasLite-WotLK</a></p>
+### 📌 What I've been up to lately
 
-  <p><b>Carbonite Mercenary Fix (WotLK)</b><br/>
-  👉 <a href="https://github.com/MRWH1TE117/CarboniteMercFix-WotLK">Carbonite-Mercenary-Fix-WotLK</a></p>
+- Addon optimization (CPU/mem performance, stable hooks, harness test).
+- Angular: CSV export, access filters, tabular components.
+- Admin: snapshots/backups, BSOD/DMP diagnosis, cleaning environments.
 
-  <p><b>UnitSideNumbers (WotLK)</b><br/>
-  👉 <a href="https://github.com/MRWH1TE117/UnitSideNumbers-WotLK">UnitSideNumbers-WotLK</a></p>
-</div>
+### 🤝 Contact / cooperation
 
-<h3 align="center">📌 What I've been up to lately</h3>
+I prefer Issues / Discussions on repositories. I will gladly accept PRs and bug reports with logs.
 
-<div align="center">
-  Addon optimization (CPU/mem performance, stable hooks, harness test).<br/>
-  Angular: CSV export, access filters, tabular components.<br/>
-  Admin: snapshots/backups, BSOD/DMP diagnosis, cleaning environments.
-</div>
-
-<h3 align="center">🤝 Contact / cooperation</h3>
-
-<p align="center">
-  I prefer Issues / Discussions on repositories.<br/>
-  I will gladly accept PRs and bug reports with logs.
-</p>
+---
