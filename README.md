@@ -1,15 +1,9 @@
-# Hi, I'm MRWH1TE117 👋
-
-- 💻 IT Specialist | 🧩 WoW AddOn Developer
-- 🛠️ Angular / TypeScript / Lua
-- 🖥️ VMware / Windows Server
-
 <!-- Profil README -->
 <h1 align="center">Hi, I'm MRWH1TE117 👋</h1>
 
 <p align="center">
   <b>💻 IT Specialist</b> • <b>🧩 WoW AddOn Developer</b><br/>
-  🖥️ Angular / TypeScript / Lua • VMware / Windows Server
+  🖥️ Angular / TypeScript / Lua • 📦 VMware / Windows Server
 </p>
 
 <p align="center">
