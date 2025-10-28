@@ -10,7 +10,6 @@
   <a href="https://github.com/MRWH1TE117?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open-green?style=flat-square"></a>
   <img alt="OS" src="https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows">
   <img alt="WoW" src="https://img.shields.io/badge/WoW-3.3.5a-FFCC00?style=flat-square">
-</p>
 
 ---
 
@@ -40,3 +39,5 @@
 I prefer Issues / Discussions on repositories. I will gladly accept PRs and bug reports with logs.
 
 ---
+
+</p>
