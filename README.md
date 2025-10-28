@@ -25,7 +25,7 @@
 - **BigAurasLite (WotLK)**
   👉 [BigAurasLite-WotLK](https://github.com/MRWH1TE117/BigAurasLite-WotLK)
 - **Carbonite Mercenary Fix (WotLK)**
-  👉 [Carbonite-Mercenary-Fix](https://github.com/MRWH1TE117/CarboniteMercFix-WotLK)
+  👉 [Carbonite-Mercenary-Fix-WotLK](https://github.com/MRWH1TE117/CarboniteMercFix-WotLK)
 - **UnitSideNumbers (WotLK)**
   👉 [UnitSideNumbers-WotLK](https://github.com/MRWH1TE117/UnitSideNumbers-WotLK)
 
