@@ -21,7 +21,7 @@
 | ------------------------------- | ----------------------- | -------------------------------------------- |
 | Angular · TypeScript · HTML/CSS | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
 
-### 🚀 Newest projects
+### 🚀 Newest public projects
 
 - **BigAurasLite (WotLK)**
   👉 [BigAurasLite-WotLK](https://github.com/MRWH1TE117/BigAurasLite-WotLK)
@@ -29,6 +29,8 @@
   👉 [Carbonite-Mercenary-Fix-WotLK](https://github.com/MRWH1TE117/CarboniteMercFix-WotLK)
 - **UnitSideNumbers (WotLK)**
   👉 [UnitSideNumbers-WotLK](https://github.com/MRWH1TE117/UnitSideNumbers-WotLK)
+
+  Of course there are more projects but working privately (for now).
 
 ### 📌 What I've been up to lately
 
