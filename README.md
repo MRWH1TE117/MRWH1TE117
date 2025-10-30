@@ -30,7 +30,7 @@
 - **UnitSideNumbers (WotLK)**
   👉 [UnitSideNumbers-WotLK](https://github.com/MRWH1TE117/UnitSideNumbers-WotLK)
 
-  Of course there are more projects but working privately (for now).
+Of course there are more projects but working privately (for now).
 
 ### 📌 What I've been up to lately
 
