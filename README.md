@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>💻 IT Specialist</b> • <b>🧑‍💻 Junior Frontend Developer</b> • <b>🧩 WoW AddOn Developer</b><br/>
-  🖥️ TS + Angular / JS + React / Lua • 📦 VMware / Windows Server
+  🖥️ Typescript / JavaScript / Angular / React / Lua • 📦 VMware / Windows Server
 </p>
 
 <p align="center">
