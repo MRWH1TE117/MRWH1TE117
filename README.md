@@ -34,6 +34,7 @@ Of course there are more projects but working privately (for now).
 
 ### 📌 What I've been up to lately
 
+- JavaScript/React: increasing skills, small apps, learning hooks/context.
 - Addon optimization (CPU/mem performance, stable hooks, harness test).
 - Angular: CSV export, access filters, tabular components.
 - Admin: snapshots/backups, BSOD/DMP diagnosis, cleaning environments.
