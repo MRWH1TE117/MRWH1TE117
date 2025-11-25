@@ -17,9 +17,9 @@
 
 ### 🔧 Tech stack
 
-| Frontend                        | Backend/Scripts         | Infra/IT                                     |
-| ------------------------------- | ----------------------- | -------------------------------------------- |
-| Angular · TypeScript · HTML/CSS | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
+| Frontend                                             | Backend/Scripts         | Infra/IT                                     |
+| ---------------------------------------------------- | ----------------------- | -------------------------------------------- |
+| Angular · TypeScript · HTML/CSS · JavaScript · React | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
 
 ### 🚀 Newest projects
 
