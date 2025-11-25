@@ -23,6 +23,8 @@
 
 ### 🚀 Newest public projects
 
+- **Passenger Counting App (JavaScript)**
+  👉 [passenger-counter-app](https://github.com/MRWH1TE117/passenger-counter-app)
 - **BigAurasLite (WotLK)**
   👉 [BigAurasLite-WotLK](https://github.com/MRWH1TE117/BigAurasLite-WotLK)
 - **Carbonite Mercenary Fix (WotLK)**
