@@ -19,7 +19,7 @@
 
 | Frontend                                             | Backend/Scripts         | Infra/IT                                     |
 | ---------------------------------------------------- | ----------------------- | -------------------------------------------- |
-| Angular · TypeScript · HTML/CSS · JavaScript · React | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
+| TypeScript · JavaScript · Angular · React · HTML/CSS | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
 
 ### 🚀 Newest public projects
 
