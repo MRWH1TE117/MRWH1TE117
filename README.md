@@ -26,9 +26,7 @@
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
 | [**Wedding Seating Planner**](https://github.com/MRWH1TE117/wedding-seating-planner) | Bilingual, local-first wedding planner with a top-down 2D venue editor, exact chair assignments, spreadsheet import, local backups and print-ready PDF boards. | TypeScript · React · Konva · IndexedDB |
-| [**BigAurasLite-WotLK**](https://github.com/MRWH1TE117/BigAurasLite-WotLK) | Configurable, performance-conscious target and focus aura display for World of Warcraft 3.3.5a. | Lua · WoW API |
-| [**UnitSideNumbers-WotLK**](https://github.com/MRWH1TE117/UnitSideNumbers-WotLK) | Health and power values for Blizzard unit frames with multiple display and color modes. | Lua · WoW API |
-| [**CarboniteMercFix-WotLK**](https://github.com/MRWH1TE117/CarboniteMercFix-WotLK) | A focused compatibility fix for Carbonite in Warmane's Mercenary Mode. | Lua · AddOn patching |
+| [**LifeQuest**](https://github.com/MRWH1TE117/lifequest) | Local-first personal development dashboard with goals, weekly planning, evidence-informed habits, daily micro-tasks, progress reports and safety-focused JSON backups. | TypeScript · React · Vitest · IndexedDB |
 
 Some larger personal tools and experiments remain private while they are being developed.
 
@@ -36,8 +34,9 @@ Some larger personal tools and experiments remain private while they are being d
 
 - Building polished, local-first applications with **TypeScript and React**, with privacy and offline use treated as core product features.
 - Developing the **Wedding Seating Planner**: interactive 2D editing, guest and chair workflows, spreadsheet interoperability, printable PDFs and bilingual UX.
+- Developing **LifeQuest**: structured goals, weekly planning, evidence-informed habits, daily micro-actions, progress analysis and resilient local data workflows.
 - Improving practical data workflows: validation, safe import/export, backups, local persistence and clear recovery paths.
-- Refining UI/UX for canvas-based tools and maintaining selected **WotLK AddOns** when fixes or performance work are needed.
+- Refining UI/UX for interactive tools and turning personal workflows into focused, maintainable applications.
 
 ### 🤝 Contact / cooperation
 
