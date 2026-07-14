@@ -23,10 +23,21 @@
 
 ### 🚀 Featured public projects
 
-| Project | What it does | Stack |
-| ------- | ------------ | ----- |
-| [**Wedding Seating Planner**](https://github.com/MRWH1TE117/wedding-seating-planner) | Bilingual, local-first wedding planner with a top-down 2D venue editor, exact chair assignments, spreadsheet import, local backups and print-ready PDF boards. | TypeScript · React · Konva · IndexedDB |
-| [**LifeQuest**](https://github.com/MRWH1TE117/lifequest) | Local-first personal development dashboard with goals, weekly planning, evidence-informed habits, daily micro-tasks, progress reports and safety-focused JSON backups. | TypeScript · React · Vitest · IndexedDB |
+#### 💍 Wedding Seating Planner
+
+A bilingual, local-first wedding planner with a top-down 2D venue editor, exact chair assignments, spreadsheet import, local backups and print-ready PDF boards.
+
+`TypeScript` · `React` · `Konva` · `IndexedDB`
+
+[![Open Wedding Seating Planner](https://img.shields.io/badge/Open_repository-Wedding_Seating_Planner-0e75b6?style=for-the-badge&logo=github)](https://github.com/MRWH1TE117/wedding-seating-planner)
+
+#### 🎯 LifeQuest
+
+A local-first personal development dashboard with goals, weekly planning, evidence-informed habits, daily micro-tasks, progress reports and safety-focused JSON backups.
+
+`TypeScript` · `React` · `Vitest` · `IndexedDB`
+
+[![Open LifeQuest](https://img.shields.io/badge/Open_repository-LifeQuest-6f42c1?style=for-the-badge&logo=github)](https://github.com/MRWH1TE117/lifequest)
 
 Some larger personal tools and experiments remain private while they are being developed.
 
